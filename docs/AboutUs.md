@@ -23,19 +23,21 @@ In charge of defining, assigning and tracking project tasks.
 
 <img src="images/lyndonlim27.png" width="200px">
 
-[[github](http://github.com/lyndonlim27)]
+[[github](https://github.com/lyndonlim27)]
 
 * Role: Team Lead and Testing
-* Responsibilities: Resposible for overall project coordination and ensure testing of project is done properly and on time.
+* Responsibilities: Responsible for overall project coordination and ensure testing of project is done properly and on 
+time.
 
 ### Johnny Doe
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/edures888.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](https://github.com/edures888)]
 
-* Role: Developer
-* Responsibilities: Data
+* Role: Integration
+* Responsibilities: In charge of versioning of the code, maintaining the code repository, integrating various parts of
+the software to create a whole.
 
 ### Jean Doe
 
